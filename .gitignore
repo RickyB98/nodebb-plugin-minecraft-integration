@@ -26,7 +26,7 @@ node_modules
 # Distribution Files
 /public/js
 /lib
-/library.js
+#/library.js
 
 # Coverage
 .nyc_output
