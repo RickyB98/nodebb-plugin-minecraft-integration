@@ -2,7 +2,6 @@
 
 import {
   async,
-  emitter,
   db,
   nconf,
 } from './lib/nodebb'

@@ -1,6 +1,5 @@
 export const accountHelpers = require.main.require('./src/controllers/accounts/helpers')
 export const db = require.main.require('./src/database')
-export const emitter = require.main.require('./src/emitter')
 export const Groups = require.main.require('./src/groups')
 export const Meta = require.main.require('./src/meta')
 export const Password = require.main.require('./src/password')
