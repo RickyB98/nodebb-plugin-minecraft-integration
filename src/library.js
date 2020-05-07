@@ -3,7 +3,7 @@
 import {
   async,
   db,
-  nconf,
+  nconf
 } from './lib/nodebb'
 
 import Admin from './lib/admin'
